@@ -100,7 +100,7 @@ jupyter notebook Bangla_Text_Classification.ipynb
 Full paper available here:
 
 **Paper Link:**  
-https://drive.google.com/file/d/1szgVdBwoOgKhl6gaxxp_lOQGWymqThLw/view?usp=sharing
+https://drive.google.com/file/d/1vTq3bLxNc5kSmanJrb_vaw8NHbAMTn39/view?usp=sharing
 
 ---
 
